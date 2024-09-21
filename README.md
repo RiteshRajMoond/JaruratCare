@@ -24,13 +24,17 @@ This is a simple React application that allows users to manage a list of healthc
 ### Installation
 
 1. **Clone the repository:**
+
    git clone https://github.com/RiteshRajMoond/JaruratCare.git
 
 2. **Navigate to the project deirectory:**
+
     cd JaruratCare
 
-3. **Install dependencies**
+3. **Install dependencies:**
+
     npm i
 
-4. **Start Server**
+4. **Start Server:**
+
     npm run dev
